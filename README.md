@@ -14,8 +14,18 @@ Instead of redirecting customers to an external checkout page, CashiPay renders 
 
 <br>
 
+<p align="center">
+  <img src="docs/screenshots/pay-page-english.png" alt="CashiPay hosted payment page — English" width="360">
+  &nbsp;&nbsp;&nbsp;
+  <img src="docs/screenshots/pay-page-arabic.png" alt="CashiPay hosted payment page — Arabic (RTL)" width="360">
+</p>
+<p align="center"><em>The hosted payment page in English (left) and Arabic with full RTL layout (right)</em></p>
+
+<br>
+
 ## Table of Contents
 
+- [Screenshots](#screenshots)
 - [Features](#features)
 - [Requirements](#requirements)
 - [Installation](#installation)
@@ -43,6 +53,25 @@ Instead of redirecting customers to an external checkout page, CashiPay renders 
 - **Clear, translated error messages** — connection issues, missing exchange rates, expired or failed payments are all explained to the customer instead of failing silently.
 - **Self-hosted typography** — uses the IBM Plex Sans Arabic typeface, bundled locally so no external font requests are made from the payment page.
 - **Contextual help tooltips** — hover-to-reveal explanations next to the QR code, reference number, and expiry time.
+
+<br>
+
+## Screenshots
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="docs/screenshots/pay-page-english.png" alt="Hosted payment page in English" width="100%">
+      <br>
+      <sub><b>Hosted payment page — English</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="docs/screenshots/pay-page-arabic.png" alt="Hosted payment page in Arabic (RTL)" width="100%">
+      <br>
+      <sub><b>Hosted payment page — Arabic (RTL)</b></sub>
+    </td>
+  </tr>
+</table>
 
 <br>
 
