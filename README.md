@@ -1,5 +1,6 @@
 # CashiPay for WHMCS
 
+[![Latest Release](https://img.shields.io/github/v/release/amolood/cashipay-whcms?label=release&color=success)](https://github.com/amolood/cashipay-whcms/releases/latest)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![WHMCS](https://img.shields.io/badge/WHMCS-8.x%20%7C%209.x-0072b1)](https://www.whmcs.com/)
 [![PHP](https://img.shields.io/badge/PHP-7.4%2B-777bb4?logo=php&logoColor=white)](https://www.php.net/)
@@ -93,8 +94,8 @@ Instead of redirecting customers to an external checkout page, CashiPay renders 
 
 ## Installation
 
-1. Download or clone this repository.
-2. Copy the `modules/` directory into the root of your WHMCS installation, merging it with the existing `modules/` folder:
+1. Download the latest packaged release from the [**Releases**](https://github.com/amolood/cashipay-whcms/releases/latest) page (or clone this repository).
+2. Extract the archive and copy the `modules/` directory into the root of your WHMCS installation, merging it with the existing `modules/` folder:
 
    ```
    your-whmcs-root/
