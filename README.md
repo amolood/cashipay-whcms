@@ -73,6 +73,11 @@ Instead of redirecting customers to an external checkout page, CashiPay renders 
   </tr>
 </table>
 
+<p align="center">
+  <img src="docs/screenshots/admin-config.png" alt="CashiPay gateway settings in the WHMCS admin area" width="100%">
+</p>
+<p align="center"><sub><b>Gateway settings in the WHMCS admin area — Setup → Payments → Payment Gateways</b></sub></p>
+
 <br>
 
 ## Requirements
